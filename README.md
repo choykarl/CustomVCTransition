@@ -5,9 +5,10 @@
 
 动画测试
 
-![效果](https://github.com/haohaocai/CustomVCTransition/blob/master/resource/present.gif)
 
 ![效果](https://github.com/haohaocai/CustomVCTransition/blob/master/resource/toPushVC1.gif)
 
 ![效果](https://github.com/haohaocai/CustomVCTransition/blob/master/resource/toPushVC2.gif)
+
+![效果](https://github.com/haohaocai/CustomVCTransition/blob/master/resource/present.gif)
 
